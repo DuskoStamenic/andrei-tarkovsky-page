@@ -1,0 +1,11 @@
+{
+  "name": "accessible-components",
+  "version": "1.0.0",
+  "description": "components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dusko Stamenic",
+  "license": "ISC"
+}
